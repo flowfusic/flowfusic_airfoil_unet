@@ -2,7 +2,11 @@
 
 This repository contains the code used in the article [**A case for machine learning in CFD**](https://medium.com/@mskarysz_35929/a-case-for-machine-learning-in-cfd-3aca27aaca76) published by [**FlowFusic**](https://www.flowfusic.com/).
 
-![](https://github.com/pwswierczynski/flowfusic_cylinder_flow/blob/master/static/flowfusic_logo.png)
+<a href="https://www.flowfusic.com/">
+<p align="center">
+  <img src="https://www.flowfusic.com/brandmark-design_transparent_for_web.png" width="350">
+</p>
+</a>
 
 ## Installation
 
@@ -21,7 +25,7 @@ source <ENV_NAME>/bin/activate
 To install the requirements run
 
 ```bash
-cd flowfusic_cylinder_flow
+cd flowfusic_airfoil_unet
 pip install -r requirements.txt
 ```
 
